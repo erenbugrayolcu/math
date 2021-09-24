@@ -1,5 +1,5 @@
 var s1 = document.querySelector('#number1');
-var s2 = document.getElementById('number2');
+var s2 = document.querySelector('#number2');
 var calc = document.getElementById('calculate');
 var result;
 var toplaBtn = document.getElementById('topla');
